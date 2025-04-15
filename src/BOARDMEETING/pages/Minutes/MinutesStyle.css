@@ -1,0 +1,11 @@
+.a4-size {
+  width: 210mm; /* A4 width */
+  height: 297mm; /* A4 height */
+  margin-top: 20px; /* Add 20px margin on top */
+  margin-bottom: 20px; /* Add 20px margin on bottom */
+  margin-left: auto; /* Center the div horizontally */
+  margin-right: auto; /* Center the div horizontally */
+  overflow: auto; /* Handle overflow if content exceeds */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Shadow effect */
+  border-radius: 8px; /* Optional: Add rounded corners */
+}

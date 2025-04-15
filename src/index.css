@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@100..900&family=Noto+Serif+Bengali:wght@100..900&family=Tiro+Bangla:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@100..900&family=Noto+Serif+Bengali:wght@100..900&family=Tiro+Bangla:ital@0;1&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .ck .ck-powered-by {
+  display: none;
+}
+
+table {
+  min-width: 400px !important;
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+  vertical-align: top;
+}
+
+.table {
+  width: "100%";
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.ck.ck-editor__main .ck-content.ck-editor__editable {
+  min-width: 100%;
+  min-height: 130px !important;
+}
+
+.ck-content .table {
+  margin: auto;
+  width: 80%;
+}
+
+.ck-content .table table td {
+  text-align: center;
+  vertical-align: top;
+  padding: 2px;
+} */

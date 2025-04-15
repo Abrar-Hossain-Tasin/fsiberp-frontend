@@ -1,0 +1,27 @@
+.ck .ck-powered-by {
+  display: none;
+}
+
+.ck.ck-editor__main .ck-content.ck-editor__editable {
+  min-width: 100%;
+  min-height: 130px !important;
+}
+
+.ck-content .table table td {
+  text-align: center;
+  vertical-align: top;
+  padding: 2px;
+}
+
+.officeNote .table {
+  margin: auto;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.officeNote .table td {
+  padding: 2px;
+  text-align: center;
+  border: 1px solid black;
+  padding: 1px !important;
+}
